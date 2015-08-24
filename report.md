@@ -1,12 +1,14 @@
 # Catalisio API
 ## Report
 Generating a report is asynchronous. To get a report, there are 3 steps :
+
 1. Ask for a generation
 2. Wait until the report generation status is done
 3. Get the report
 
 Types of available reports :
-1. keyword
+
+1. [keyword](https://github.com/catalisio/api/blob/master/reportKeyword.md)
 
 ### Ask for a generation
 `POST /<publicSiteId>/report/<type>`
