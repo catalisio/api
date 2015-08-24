@@ -17,6 +17,7 @@ The file format is :
 * quotes `""` in order to escape strings
 
 Columns are, in this order :
+
 1. Mot-clé
 2. Visites
 3. Ventes
