@@ -7,6 +7,7 @@ The 'keyword' report provides data by keywords, for particular period, goal and 
 * `endDate` (required) : YYYY-MM-DD (i.e : 2015-12-23)
 * `goalId` (required) : Id of the goal 
 * `branding` (required) : `1` or `0` to have results for branding or no-branding
+
 ### File format
 The file format is :
 * CSV
