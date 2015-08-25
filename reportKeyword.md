@@ -20,9 +20,9 @@ Columns are, in this order :
 
 1. Mot-clé
 2. Visites
-3. Ventes
-4. Chiffre d'affaires
-5. Panier moyen
+3. <convertion_label> (optionnal, depends of the goal type)
+4. <value_label> (optionnal, depends of the goal type)
+5. Panier moyen (optionnal, depends of the goal type)
 6. Volume de recherche
 7. Position moyenne
 8. Taux de conversion
