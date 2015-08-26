@@ -11,7 +11,7 @@ Types of available reports :
 1. [keyword](https://github.com/catalisio/api/blob/master/reportKeyword.md)
 
 ### Ask for a generation
-`POST /<publicSiteId>/report/<type>`
+`POST /report/<type>`
 #### Description
 Ask for a report generation. A worker will treat the demand as soon as possible.
 
@@ -25,7 +25,7 @@ View the documentation for type of report you want.
 }
 ```
 ### Get status
-`GET /<publicSiteId>/report/<reportId>/status`
+`GET /report/<reportId>/status`
 #### Description
 Get the status for a report generation. Statuses are :
 * `in queue` : demand is ok, but still waiting for treatment
@@ -41,7 +41,7 @@ Get the status for a report generation. Statuses are :
 }
 ```
 ### Get the report
-`GET /<publicSiteId>/report/<reportId>`
+`GET /report/<reportId>`
 #### Description
 Get the report has a file.
 #### Response

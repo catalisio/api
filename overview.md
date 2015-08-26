@@ -2,6 +2,8 @@
 ## Overview
 ### Authentification
 Each request must have the header `X-Auth-Token: <your_token>`.
+
+A token is an authentification for one site.
 ### Response
 The response is formatted in JSON. 
 ```

@@ -1,7 +1,7 @@
 # Catalisio API
 ## Goals
 ### List goals
-`GET /<publicSiteId>/goals`
+`GET /goals`
 #### Description
 List available goals for a site. 
 #### Response body
