@@ -7,6 +7,6 @@ Get site if enable.
 #### Response body
 ```
 { 
-    "url" : <site1_url>
+    "url" : <site_url>
 }
 ```
