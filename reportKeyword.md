@@ -27,3 +27,4 @@ Columns are, in this order :
 6. Volume de recherche
 7. Position moyenne
 8. Taux de conversion
+9. Page positionnée
